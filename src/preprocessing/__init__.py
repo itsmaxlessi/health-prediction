@@ -2,6 +2,6 @@
 Модуль для предобработки данных
 """
 
-from .data_preprocessor import DataPreprocessor
+from .preprocessor import DataPreprocessor
 
 __all__ = ['DataPreprocessor']

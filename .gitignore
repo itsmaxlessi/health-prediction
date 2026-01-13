@@ -37,3 +37,10 @@ ENV/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# CatBoost training info
+catboost_info/
+
+# Temporary files
+*.tmp
+output.png
